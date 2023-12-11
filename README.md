@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @rajsikandar9682
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Sikandar Rajbhar
+- 👀 I’m interested in AI & ML
+- 💞️ I’m looking for job in AI & ML 
+- 📫 Communication way- sikandarraj12ss@gamil.com
+- Cont-no:- 8850307685
 
 <!---
 rajsikandar9682/rajsikandar9682 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
