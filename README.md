@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sikandar Rajbhar
 - 👀 I’m interested in AI & ML
 - 💞️ I’m looking for job in AI & ML 
-- 📫 Communication way- sikandarraj12ss@gamil.com
+- 📫 Communication way- sikandarraja12ss@gamil.com
 - Cont-no:- 8850307685
 
 <!---
